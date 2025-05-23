@@ -1,0 +1,23 @@
+<title>My Cool Page</title>
+<css href="style.css" />
+<js src="script.js" />
+<txt css="helloworld">Hello, World</txt>
+<css>
+    helloworld {
+        color: blue;
+        font-weight: bold;
+    }
+</css>
+<prompt>Enter your name</prompt>
+
+<header>This is the header</header>
+<subheader>This is a subheading</subheader>
+<img w="200" height="auto" src="logo.png" alt="My Logo" />
+<btn css='color: blue, size: 20px;'>Click Me1</btn>
+<br />
+<list>
+    <li>Item 1</li>
+    <li>Item 2</li>
+</list>
+<box>This is inside a box</box>
+<footer>This is the footer</footer>
